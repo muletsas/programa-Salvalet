@@ -274,6 +274,7 @@ public class NumerosEnLletra {
         
     }
     static void mostraLletres(String lletra){
+        System.out.println("***********************************************************************************");
         System.out.println(" ________________________________________________________________________________\n");
         System.out.println("  "+lletra);
         System.out.println(" __________________________________________________________________________________");
