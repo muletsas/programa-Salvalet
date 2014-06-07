@@ -10,7 +10,9 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
- *Programa: numerosEnLletra.java
+ *
+ * Programa: numerosEnLletra.java
+ * 
 L’objectiu de la pràctica és fer un programa que passe una quantitat de 3 xifres a lletres.
 Exemples:
 483 quatre-cents huitanta-tres
