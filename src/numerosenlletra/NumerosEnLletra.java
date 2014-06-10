@@ -79,8 +79,10 @@ public class NumerosEnLletra {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-                                            System.out.plrintl("Això ho pague jo");// linea que modifica salva 
-       int numero=-1;
+                                            System.out.println("Això ho pague jo");// linea que modifica salva 
+       
+                 //Salva modifica el programa clonat                           
+                                            int numero=-1;
        String lletres="";
        boolean error;
        do
